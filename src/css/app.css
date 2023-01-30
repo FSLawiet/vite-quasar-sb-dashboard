@@ -1,0 +1,58 @@
+/* app global css */
+:root {
+  --q-grey-100: #e0e0e0;
+  --q-grey-200: #c2c2c2;
+  --q-grey-300: #a3a3a3;
+  --q-grey-400: #858585;
+  --q-grey-500: #666666;
+  --q-grey-600: #525252;
+  --q-grey-700: #3d3d3d;
+  --q-grey-800: #292929;
+  --q-grey-900: #141414;
+
+  --q-primary-100: #d0d1d5;
+  --q-primary-200: #a1a4ab;
+  --q-primary-300: #727681;
+  --q-primary-400: #1f2a40;
+  --q-primary-500: #141b2d;
+  --q-primary-600: #101624;
+  --q-primary-700: #0c101b;
+  --q-primary-800: #080b12;
+  --q-primary-900: #040509;
+
+  --q-green-accent-100: #dbf5ee;
+  --q-green-accent-200: #b7ebde;
+  --q-green-accent-300: #94e2cd;
+  --q-green-accent-400: #70d8bd;
+  --q-green-accent-500: #4cceac;
+  --q-green-accent-600: #3da58a;
+  --q-green-accent-700: #2e7c67;
+  --q-green-accent-800: #1e5245;
+  --q-green-accent-900: #0f2922;
+
+  --q-green-red-accent-100: #f8dcdb;
+  --q-green-red-accent-200: #f1b9b7;
+  --q-green-red-accent-300: #e99592;
+  --q-green-red-accent-400: #e2726e;
+  --q-green-red-accent-500: #db4f4a;
+  --q-green-red-accent-600: #af3f3b;
+  --q-green-red-accent-700: #832f2c;
+  --q-green-red-accent-800: #58201e;
+  --q-green-red-accent-900: #2c100f;
+
+  --q-blue-accent-100: #e1e2fe;
+  --q-blue-accent-200: #c3c6fd;
+  --q-blue-accent-300: #a4a9fc;
+  --q-blue-accent-400: #868dfb;
+  --q-blue-accent-500: #6870fa;
+  --q-blue-accent-600: #535ac8;
+  --q-blue-accent-700: #3e4396;
+  --q-blue-accent-800: #2a2d64;
+  --q-blue-accent-900: #151632;
+}
+body.body--light {
+  background: #eee;
+}
+body.body--dark {
+  background: #111;
+}
